@@ -25,7 +25,7 @@ button:focus {
 /* --------- */
 /*  Preloader */
 /* --------- */
-#preloader {
+/*#preloader {
   position: fixed;
   top: 0;
   left: 0;
@@ -36,7 +36,7 @@ button:focus {
   background-image: url(./Assets/pre.svg);
   background-repeat: no-repeat;
   background-position: center;
-}
+}*/
 
 #preloader-none {
   opacity: 0;
@@ -254,7 +254,7 @@ button:focus {
   padding-top: 80px !important;
 }
 
-.home-section {
+/*.home-section {
   position: relative;
   z-index: -1;
   background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
@@ -262,7 +262,7 @@ button:focus {
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
   padding-top: 30px !important;
-}
+}*/
 
 .home-content {
   padding: 9rem 0 2rem !important;
