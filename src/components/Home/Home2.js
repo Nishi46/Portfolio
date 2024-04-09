@@ -16,7 +16,7 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LET ME <span className="green"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
@@ -30,25 +30,25 @@ function Home2() {
               <br />
               My field of Interest's are  &nbsp;
               <i>
-                <b className="purple">Natural Processing Languages </b> and
+                <b className="green">Natural Processing Languages </b> and
                 also in areas related to{" "}
-                <b className="purple">
+                <b className="green">
                   Virtual or Mixed Reality.
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="green">Node.js</b> and
               <i>
-                <b className="purple">
+                <b className="green">
                   {" "}
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="green"> React.js and Next.js</b>
               </i>
             </p>
           </Col>
@@ -62,7 +62,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="green">connect </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
