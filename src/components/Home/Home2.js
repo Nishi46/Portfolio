@@ -24,16 +24,16 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="green"> Python, Java,and Javascript . </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are  &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Natural Processing Languages </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Virtual or Mixed Reality.
                 </b>
               </i>
               <br />
