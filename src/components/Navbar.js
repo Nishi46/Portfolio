@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://nishi.vercel.app/"
+                href="https://medium.com/@nishigoldy/"
                 target="_blank"
                 rel="noreferrer"
               >
